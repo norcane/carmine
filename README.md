@@ -101,7 +101,7 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response)
 }
 ```
 
-## Using connection parameters
+## Using connection properties
 Sometimes some additional data are required to be shared between the client
 and server side within the _Carmine_ connection (e.g. credentials, security
 token, etc). To allow this, _Carmine_ offers mechanism of
